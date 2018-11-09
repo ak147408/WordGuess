@@ -1,0 +1,17 @@
+.container{
+    background-image: linear-gradient(red, yellow, blue);
+    padding: 25px;
+    font-family: 'Gloria Hallelujah', cursive;
+    border-radius: 15px;
+    padding: 20px; 
+    height: 750px; 
+}
+
+#back{
+    background-image: url("https://www.mydish.com/filestream.ashx?ID=15649");
+    padding: 50px;
+}
+
+#jumbo{
+   background-color: white;
+}

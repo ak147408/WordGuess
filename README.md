@@ -1,0 +1,2 @@
+# WordGuess
+JavaScript hangman game 
